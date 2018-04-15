@@ -4,55 +4,68 @@ public class Loooooops {
 		//Complete the exercises.
 		
 		//1. Rewrite the following code so that it uses a for loop instead of a while loop to print out all the integers from 5 to 1 (inclusive).
-		int x = 5;
-        while (x > 0)
-        {
-            System.out.println(x);
-            x = x - 1;
-        }
+	//	int x = 5;
+//for (int i = 1; i <= 5.; i++) {
+//	System.out.println(x);
+    //        x = x - 1;
+//}
+
+            
+        
         
 //        2. Rewrite the following code to use a while loop instead of a for loop to print out the numbers from 1 to 10 (inclusive).
-//        for (int x = 1; x <= 10; x++){
-//        	System.out.println(x);
-//        }
+		//int x=1;
+		//while (x<=10) {	
+	//System.out.println(x);
+		//	x=x+1;
+  //   }
         
 //        3. Rewrite the following code so that it uses a for loop instead of a while loop to print out all the integers from 5 to 15 (inclusive).
-//        int x = 5;
-//        while (x <= 15)
-//        {
-//            System.out.println(x);
-//            x = x + 1;
-//        }
+		//int x = 5;
+		//for(int i=5;i<=15.;i++){
+        //    System.out.println(x);
+       //    x = x + 1;
+      //  }
         
 //        4. Rewrite the following code to use a while loop instead of a for loop to print out the numbers from 10 to 100 by 10’s (inclusive).
-//        for (int x = 10; x <= 100; x=x+10){
-//        	System.out.println(x);
-//        }
+		//int x=10;
+		//while (x<=100) {       	
+	//System.out.println(x);
+	//x=x+10;
+     //   }
         
 //        5. The following code should print the values from 1 to 10 (inclusive) but has errors. 
-//           Fix the errors so that the code works as intended. 
-//        int x = 1;
-//        while (x < 10)
-//        {
-//            System.out.println(x);
-//        }
+       //    Fix the errors so that the code works as intended. 
+     //  int x = 1;
+   //    while (x <= 10)
+   //    {
+    //        System.out.println(x);
+   //         x=x+1;
+    //   }
         
 //        6. The following code should print the values from 10 to 5, but it has errors. Fix the errors so that the code works as intended.
-//        for (int x = 10; x >= 5; x--)
-//        {
-//           System.out.println(x);
-//           x--;
-//        }
+    //  int x=10;
+	//	for (int i = 10; i >= 5; i--)
+     //   {
+     //      System.out.println(x);
+     //      x=x-1;
+     //   }
         
 //        7. The following code should print the values from 10 to 1, but it has errors. Fix the errors so that the code works as intended.
-//        int x = 10;
-//        while (x >= 0)
-//        {
-//           x--;
-//           System.out.println(x);
-//        }
+       // int x = 10;
+       // while (x >= 1)
+       // {
+       //    System.out.println(x);         
+       //    x=x-1;
+
+      //  }
         
         //8. Write code to print a countdown from 100 to 0 by 10’s.
+		//int x=100;
+				//while (x>=10) {       	
+			//System.out.println(x);
+			//x=x-10;
+		   //    }
         
         //9. Finish the wordIterate method so that it prints the String parameter minus 
         //   the last character each time through the loop until there are no more characters in the string.
